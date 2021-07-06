@@ -120,8 +120,17 @@ display: flex;
     font-weight: 400;
 }
 
-.last.com{
+body{margin: 0%;
+padding:0%
+}
 
-    color: snow;
+.footer{
+
+    padding-top: 20px;
+    padding-bottom: 100px;
+    text-align: center;
+    width: 100%;
+    float: left;
     background-color: black;
+    color: ghostwhite;
 }
