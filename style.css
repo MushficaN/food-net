@@ -40,7 +40,84 @@ margin: 0;
 .dream-big{
     background-image: url(Frame\ 56.jpg);
 
+}
+
+.exp{
+display: flex;
 
 
 
 }
+
+.jkkk{
+
+    text-align: center;
+}
+
+
+
+
+.flexibl{
+    display: flex;
+    margin: 240px;
+   
+    
+    
+    
+}
+
+
+}
+
+.cards img{
+
+    width: 10%;
+    
+}
+
+.card{
+    float: left;
+
+    display: flex;
+
+}
+
+.cards{
+
+    border: crimson 2px;
+}
+
+.cards img{
+    width: 100%;
+}
+
+
+.card{
+    float: left;
+    display: flex;
+}
+.cards{
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-right: 20px;
+    margin-left: 58px;
+    width: 25%;
+    box-shadow: rgb(102, 93, 93) 0px 0px 12px 3px;
+    border-radius: 20px;
+}
+.cards h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+    color: rgb(37, 37, 37);
+
+}
+
+.cards p{
+    font-family: fantasy;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+
