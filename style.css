@@ -23,6 +23,7 @@ color:ghostwhite;
 font-weight: 800;
 background-color:orangered;
 border-radius: 5px;
+text-align: center;
 }
 
 .top-banner{
@@ -32,5 +33,14 @@ body{
 margin: 0;
 
 }
+.cen{
+
+    text-align: center;
+}
+.dream-big{
+    background-image: url(Frame\ 56.jpg);
 
 
+
+
+}
